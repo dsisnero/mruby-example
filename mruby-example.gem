@@ -1,0 +1,7 @@
+name: mruby-example
+description: Example class
+author: your-name
+website: https://github.com/your-github-username/mruby-example
+protocol: git
+repository: https://github.com/your-github-username/mruby-example.git
+license: MIT
